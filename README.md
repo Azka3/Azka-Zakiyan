@@ -1,5 +1,4 @@
-# Azka-Zakiyan
-<h1 align="center">Hi there, I'm Azka 👋</h1>
+<h1 align="center">Hi there, I'm Azka zakiyyan👋</h1>
 
 <h3 align="center">Web Developer • Game Developer • 3D Artist</h3>
 
